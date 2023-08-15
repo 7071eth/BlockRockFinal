@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap');
+
+@font-face {
+  font-family: 'teko';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/teko700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'opensans';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url('/fonts/openSans400.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'opensans';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/openSans800.woff2') format('woff2');
+}
