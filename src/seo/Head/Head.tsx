@@ -11,9 +11,9 @@ export interface HeadProps {
 
 export const Head = (props: HeadProps) => {
   const {
-    ogImage = 'https://res.cloudinary.com/dpv0ukspz/image/upload/v1659183816/ogimage-100_jec2sx.jpg',
-    title = 'React Just Parallax',
-    description = 'React library for scroll and mousemove parallax effect, open source, production-ready',
+    ogImage = 'https://nftstorage.link/ipfs/bafybeigzvftozdrhwmmz4ajbmxodyrfv3kiu5icm37getmlnpoktsdfknq/BANNER.png',
+    title = 'BlockRock',
+    description = 'Elite Web3 investment firm',
   } = props;
 
   return (
@@ -22,7 +22,7 @@ export const Head = (props: HeadProps) => {
       <meta name="description" content={description} />
       <link
         rel="icon"
-        href="https://res.cloudinary.com/dpv0ukspz/image/upload/v1659184024/favicon_hdctby.ico"
+        href="https://bafybeidag2yxnvyqp4sysrjin6omzuaieavjzhewdwpqndmqy73atxc7dy.ipfs.nftstorage.link/favicon.ico"
       />
 
       <meta property="og:type" content="website" />
